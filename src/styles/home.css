@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+.main{
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
+
+.welcome{
+    margin-top: 15rem;
+    font-size: 40px;
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav-item:hover{
+    opacity: 70%;
+}

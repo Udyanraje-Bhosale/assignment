@@ -1,0 +1,34 @@
+.most{
+    height: 100vh;
+    
+    background-color: #0c0c0c;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 60px;
+}
+
+.contact_form .form-control{
+    padding: 1.375rem .75rem;
+    line-height: 1.5;
+    color: white;
+    background-color: rgb(51, 49, 49);
+    border-radius: 0 !important;
+    border: 1px solid #fff;
+}
+
+.contact_form input.form-control{
+    margin-bottom: 2em;
+    height:calc(2.5em + .75rem +2px) ;
+}
+
+.btn{
+    color: white;
+}
+
+.betn:hover{
+    color: white;
+}
+
+input::placeholder {
+    color: whitesmoke; /* Replace with your desired color */
+  }

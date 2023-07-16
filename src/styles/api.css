@@ -1,0 +1,31 @@
+.weather{
+    background: url('../Assets/davies-designs-studio-G-6kwVnClsE-unsplash.jpg');
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.weatherResultBox{
+    margin: auto;
+    height: 500px;
+    width: 300px;
+}
+
+.weatherIcon{
+    margin-top: 2rem;
+    width: 100px;
+    height: 100px;
+
+}
+
+.weatherCity{
+    font-size: 35px;
+}
+
+.temp{
+font-size: 55px;
+font-weight: 700;
+}
